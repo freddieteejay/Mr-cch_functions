@@ -80,8 +80,35 @@ public static String maximumAndMinimumIn(int[] array){
         return (Arrays.toString(value));
 }
 
+public static int[ ] firedrillin(int[] array){
+	
+	int[] number = new int[array.length * 2];
+		for (int i = 0; i < array.length; i++){
+			number[i * 2] = array[i];
+			number[i * 2 + 1] = array[i] * 2;
+
+		} 
+	return number;
+}
+
+public static int[ ] chiassignment(int[] array){
+       
+	int [] arr = new int[array.length];
+	for(int i = 0; i < array.length; i++){
+		if(array[i] % 2 == 0){
+                    arr[i] = 0;
+                }
+		else {
+			arr[i] = 1;
+		}
+		}
+
+return arr;
 
 
+
+
+} 
 
 
 
