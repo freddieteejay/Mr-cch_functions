@@ -61,24 +61,6 @@ return sum;
 }
 
 
-/*public static int[] maximumAndMinimumIn(int [] arr){
-int minElement = arr[0];
-	int maxElement = arr[0]b;
-	for (int i = 1; i < arr.length; i++){
-
-		if (arr[i] < minElement){
-			minElement= arr[i];
-		} else if (arr[i] > maxElement){
-			maxElement = arr[i];
-
-}
-
-}
-		return new int[]{minElement, maxElement};
-
-
-}*/
-
 public static String maximumAndMinimumIn(int[] array){
         int maximum = 0;
         int minimum = Integer.MAX_VALUE;
