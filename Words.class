@@ -1,0 +1,26 @@
+Êþº¾   A @
+       java/lang/Object <init> ()V  ;Hi welcome
+1 -> for English
+2 -> for Yoruba
+3 -> for Hausa
+ 
+ ,1 -> for nin
+2 -> for airtime
+3 -> for data
+  ,1 -> fun Food
+2 -> fun Gender
+3 -> for Name
+  *1 -> for House
+2 -> for Age
+3 -> for Size
+	       java/lang/System out Ljava/io/PrintStream;  prompt
+       java/io/PrintStream  println (Ljava/lang/String;)V   java/util/Scanner	    ! " in Ljava/io/InputStream;
+  $  % (Ljava/io/InputStream;)V
+  ' ( )  nextInt ()I +  English
+  - .  print 0 Yoruba 2 Hausa  4 Words Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable  ; [Ljava/lang/String;  = java/lang/String 
+SourceFile 
+Words.java ! 3           5        *· ±    6        ‰ 7 8  5   ö      y L	M
+N
+:² ¶ » Y² · #:¶ &6ª    N            ,   >² *¶ ² ,¶ ,§ %² /¶ ² -¶ ,§ ² 1¶ ² ¶ ,±    6   F         	  
+    !  ( ! D # L $ S % V * ^ + e , h 1 p 2 x 9 9    ÿ D    :  <  <  <  <      >    ?

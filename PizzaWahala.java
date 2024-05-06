@@ -7,14 +7,14 @@ public class PizzaWahala{
 		int smallMoneySlices = 6;
 		int bigBoysSlices = 8;
 		int odogwuSlices = 12;
-		int price1 = 2200;
+		int price1 = 2000;
 		int price2 = 2400;
 		int price3 = 3000;
 		int price4 = 4200; 
 
 		System.out.println("Welcome to iya afeez pizza joint\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\nWe sell the best pizza in the whole Ajejunle!!!");
 		System.out.println("Here is a list of packages we have and their price");
-		System.out.println("Sapa size => $2,200\n>>>>>>>>>>>>>>>>>>>>>>\nSmall Money => $2,400\n>>>>>>>>>>>>>>>>>>>>>>\nBig boys => $3000\n>>>>>>>>>>>>>>>>>>>>>>\nOdogwu size=> $4200\n>>>>>>>>>>>>>>>>>>>>>>");
+		System.out.println("Sapa size => $2,000\n>>>>>>>>>>>>>>>>>>>>>>\nSmall Money => $2,400\n>>>>>>>>>>>>>>>>>>>>>>\nBig boys => $3000\n>>>>>>>>>>>>>>>>>>>>>>\nOdogwu size=> $4200\n>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println(" ");
 		System.out.println("for Sapa size enter => sapa\nfor Small Money enter => small\nfor Big Boys enter big\nfor ODOGWU enter => ODO");
 		String pizzaType = scanner.next();
